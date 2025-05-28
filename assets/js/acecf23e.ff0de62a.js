@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksmartreception_doc=self.webpackChunksmartreception_doc||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/FrenchVox-docs/blog","blogTitle":"Blog","authorsListPath":"/FrenchVox-docs/blog/authors"}')}}]);

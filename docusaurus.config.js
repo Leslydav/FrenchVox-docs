@@ -15,15 +15,15 @@ const config = {
   favicon: 'img/fav.svg',
 
   // Set the production url of your site here
-  url: 'https://frenchvox-docs.fr',
+  url: 'https://leslydav.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/FrenchVox-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'frenchvox docs', // Usually your repo name.
+  organizationName: 'Leslydav', // Usually your GitHub org/user name.
+  projectName: 'FrenchVox-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -104,7 +104,7 @@ const config = {
           },
          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://01-template-smart-reception-ai.bubbleapps.io/version-test/',
+            href: 'https://frenchvox.fr/',
             label: 'FrenchVox',
             position: 'right',
           },
@@ -128,15 +128,15 @@ const config = {
             items: [
               {
                 label: 'LinkedIn',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'www.linkedin.com/in/lesly-davilmar-frenchvox-07372836a',
               },
               {
                 label: 'Youtube',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://www.youtube.com/channel/UCLHTPzy5loGRhBkXGq0eSAA',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/LeslyAi',
               },
             ],
           },
@@ -149,7 +149,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Leslydav/FrenchVox-docs',
               },
             ],
           },
